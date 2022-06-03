@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chioma Kamalu</h1>
-<h3 align="center">A passionate self-taught Data Science.</h3>
+<h3 align="center">A passionate self-taught Data Scientist.</h3>
 
 - 🌱 I’m currently learning **AWS Cloud computing and Other Ml libraries**
 
