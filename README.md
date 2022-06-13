@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kamalu-chioma.github.io/](https://kamalu-chioma.github.io/)
 
-- ⚡ Fun fact **I do vector illustrations too**
+- ⚡ Fun fact: **I do vector illustrations too**
 
 
 
