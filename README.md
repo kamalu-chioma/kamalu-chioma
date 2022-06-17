@@ -3,13 +3,15 @@
 </div>
 
 
-<h3 align="center">A passionate self-taught Data Scientist, Python Dev and Related🙃</h3>
+<h3 align="center">A passionate self-taught Data Scientist</h3>
 
 - 🌱 I’m currently learning **Cloud computing (AWS) and Machine Learning Engineering** 
 
 - 👨‍💻 All of my projects are available at [https://kamalu-chioma.github.io/](https://kamalu-chioma.github.io/)
 
 - ⚡ Fun fact: **I do vector illustrations too**
+
+- 🙃 I like to play around with Python and JS. I'm not necessarily limited to DS related programming. 
 
 
 
