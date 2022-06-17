@@ -3,7 +3,7 @@
 </div>
 
 
-<h3 align="center">A passionate self-taught Data Scientist.</h3>
+<h3 align="center">A passionate self-taught Data Scientist, Python Dev and Related🙃</h3>
 
 - 🌱 I’m currently learning **Cloud computing (AWS) and Machine Learning Engineering** 
 
