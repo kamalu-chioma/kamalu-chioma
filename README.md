@@ -13,7 +13,7 @@
 
 - 🙃 I like to play around with Python and JS. I'm not necessarily limited to DS related programming. 
 
-- ⚡ Fun fact: I do vector illustratons, graphic designs and I am a local fitness trainer.
+- ⚡ Fun fact: I do vector illustratons, graphic designs, and I am a local fitness trainer.
 
 
 <h3 align="left">My Languages and Tools: (Does not include all my competencies)</h3>
@@ -29,6 +29,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalu-chioma&" alt="kamalu-chioma" /></p>
+<br/>
 
 
 <!-- BLOG-POST-LIST:START -->
@@ -38,6 +39,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/chioma-kamalu-chimere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chioma-kamalu-chimere" height="30" width="40" /></a>   
   
+ <br/>
+
 <a href="https://www.behance.net/chiomakamalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="chiomakamalu" height="30" width="40" /></a>
 <a href="https://medium.com/@chioma_kamalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chioma_kamalu" height="30" width="40" /></a>
 </p>
