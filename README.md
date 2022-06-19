@@ -5,7 +5,9 @@
 
 <h3 align="center">A passionate self-taught Data Scientist</h3>
 
-- 🌱 I’m currently learning **Cloud computing (AWS) and Machine Learning Engineering** 
+- 🎈 I’m currently learning **Cloud computing (AWS) and Machine Learning Engineering** 
+
+- 🎓 Graduate of Mathematics and Computer Science  [B.Sc. Industrial Mathematics-Computer Science]
 
 - 👨‍💻 All of my projects are available at [https://kamalu-chioma.github.io/](https://kamalu-chioma.github.io/)
 
