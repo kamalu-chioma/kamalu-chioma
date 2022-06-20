@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate self-taught Data Scientist</h3>
 <blockquote>
-- 🎈 I’m currently learning **Cloud computing (AWS) and Machine Learning Engineering** 
+- 🎈 I’m currently learning AWS Cloud Essentials and how scalable apps can be built in the cloud; and Machine Learning Engineering** 
 
 - 🎓 Graduate of Mathematics and Computer Science  [B.Sc. Industrial Mathematics-Computer Science]
 
