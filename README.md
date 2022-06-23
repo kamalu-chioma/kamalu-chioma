@@ -23,7 +23,7 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalu-chioma&show_icons=true&locale=en&layout=compact" alt="kamalu-chioma" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalu-chioma&show_icons=true&locale=en&layout=compact" alt="kamalu-chioma" /></p>
 
 
 
