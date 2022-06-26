@@ -15,7 +15,7 @@
 
 - 🙃 I like to play around with Python and JS. I'm not necessarily limited to DS related programming. 
 
-- ⚡ Fun fact: I do vector illustratons, graphic designs, and I am a local fitness trainer.
+- ⚡ Fun fact: I do vector illustratons and  graphic designs.
 </blockquote>
 
 <h3 align="left">My Languages and Tools: (Does not include all my competencies)</h3>
