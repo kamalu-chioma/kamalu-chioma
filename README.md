@@ -13,7 +13,7 @@
 
 - 👇 Scroll down to see my pinned projects.
 
-- 🙃 I like to play around with Python and JS. I'm not necessarily limited to DS related programming. 
+- 🙃 I like to play around with Python. I'm not necessarily limited to DS related programming. 
 
 - ⚡ Fun fact: I do vector illustratons and  graphic designs.
 </blockquote>
