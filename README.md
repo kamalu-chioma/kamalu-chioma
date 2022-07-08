@@ -7,7 +7,7 @@
 <blockquote>
 - 🎈 I’m currently learning AWS Cloud Essentials, and how scalable apps can be built in the cloud; and Machine Learning Engineering** 
 
-- 🎓 Graduate of Mathematics and Computer Science  [B.Sc. Industrial Mathematics-Computer Science]
+- 🎓 Graduate of Industrial Mathematics and Computer Science  [B.Sc. Industrial Mathematics-Computer Science]
 
 - 👨‍💻 Most of my projects are available at [https://kamalu-chioma.github.io/](https://kamalu-chioma.github.io/)
 
