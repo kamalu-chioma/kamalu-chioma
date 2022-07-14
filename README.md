@@ -15,7 +15,7 @@
 
 - 🙃 I like to play around with Python. I'm not limited to DS related programming. 
 
-- ⚡ Fun fact: I love to create vector illustratons and  graphic designs.
+- ⚡ Fun fact: I love to create vector illustratons and  Graphic designs.
 </blockquote>
 
 <h3 align="left">My Languages and Tools: (Does not include all competencies)</h3>
