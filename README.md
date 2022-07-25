@@ -13,7 +13,7 @@
 
 - 👇 Scroll down to see my pinned projects.
 
-- 🙃 I like to play around with Python. I'm not limited to DS related programming. 
+- 🙃 I like to play around with Python.
 
 - ⚡ Fun fact: I love to create vector illustratons and  Graphic designs.
 </blockquote>
