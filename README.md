@@ -3,13 +3,13 @@
 </div>
 
 
-<h3 align="center">A passionate self-taught Data Scientist</h3>
+<h3 align="center">A passionate self-taught Data Scientist and Python Programmer</h3>
 <blockquote>
 - 🎈 I am currently learning AWS Cloud Essentials, and how scalable applications can be built in the cloud; and Machine Learning Engineering** 
 
 - 🎓 Graduate of Industrial Mathematics and Computer Science [B.Sc. Industrial Mathematics-Computer Science]
 
-- 👨‍💻 Most of my projects are available at [https://kamalu-chioma.github.io/](https://kamalu-chioma.github.io/)
+- 👨‍💻 A few of my projects are available[HERE](https://kamalu-chioma.github.io/)
 
 - 👇 Scroll down to see my pinned projects.
 
