@@ -15,7 +15,6 @@
 
 - 🙃 I like to play around with Python.
 
-- ⚡ Fun fact: I love to create vector illustratons and  Graphic designs.
 </blockquote>
 
 <h3 align="left">My Languages and Tools: (Does not include all competencies)</h3>
