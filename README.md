@@ -13,7 +13,7 @@
 
 - 👇 Scroll down to see my pinned projects.
 
-- 🙃 I like to play around with Python.
+- 🙃 I love to teach chidren 🤝.
 
 </blockquote>
 
