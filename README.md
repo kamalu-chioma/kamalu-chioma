@@ -13,7 +13,6 @@
 
 - 👇 Scroll down to see my pinned projects.
 
-- 🙃 I love to teach children 🤝.
 
 </blockquote>
 
