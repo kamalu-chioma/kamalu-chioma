@@ -9,7 +9,7 @@
 
 - 🎓 Graduate of Industrial Mathematics and Computer Science [B.Sc. Industrial Mathematics-Computer Science]
 
-- 👨‍💻 A few of my projects are available [HERE](https://kamalu-chioma.github.io/)
+- 👨‍💻 A couple of my projects are available [HERE](https://kamalu-chioma.github.io/)
 
 - 👇 Scroll down to see my pinned projects.
 
