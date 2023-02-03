@@ -3,15 +3,15 @@
 </div>
 
 
-<h3 align="center">A passionate Data Professional and Python Programmer</h3>
+<h3 align="center">Data Professional and Python Programmer</h3>
 <blockquote>
-- 🎈 I am currently learning AWS Cloud Essentials, and how scalable applications can be built on the cloud; and Machine Learning Engineering** 
+- 🎈 I am currently learning AWS Cloud Essentials, and  Machine Learning Engineering* 
 
-- 🎓 Graduate of Industrial Mathematics and Computer Science [B.Sc. Industrial Mathematics-Computer Science]
+- 🎓 Bachelors in Industrial Mathematics and Computer Science 
 
-- 👨‍💻 A couple of my projects are available [HERE](https://kamalu-chioma.github.io/)
+- 👨‍💻 Portfolio Website [HERE](https://kamalu-chioma.github.io/)
 
-- 👇 Scroll down to see my pinned projects.
+- 🌻 Multi Tech Enthusiast
 
 
 </blockquote>
