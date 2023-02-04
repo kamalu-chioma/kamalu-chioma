@@ -11,7 +11,7 @@
 
 - 👨‍💻 Portfolio Website [HERE](https://kamalu-chioma.github.io/)
 
-- 🌻 Multi Tech Enthusiast
+- 🌻 Multi Tech Talent
 
 
 </blockquote>
