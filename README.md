@@ -7,7 +7,7 @@
 <blockquote>
 - 🎈 I am currently learning AWS Cloud Essentials, and  Machine Learning Engineering* 
 
-- 🎓 Bachelors in Industrial Mathematics and Computer Science 
+- 🎓 Bachelors degree in Industrial Mathematics and Computer Science 
 
 - 👨‍💻 Portfolio Website [HERE](https://kamalu-chioma.github.io/)
 
