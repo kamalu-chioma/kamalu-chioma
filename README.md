@@ -9,7 +9,7 @@
 
 - 🎓 Bachelors degree in Industrial Mathematics and Computer Science 
 
-- 👨‍💻 Portfolio Website [HERE](https://kamalu-chioma.github.io/)
+- 👨‍💻 My Portfolio Website [HERE](https://kamalu-chioma.github.io/)
 
 - 📡 Multi Tech Talent
 
