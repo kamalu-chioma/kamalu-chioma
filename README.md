@@ -5,7 +5,7 @@
 
 <h3 align="center"> Data Professional and Python Programmer</h3>
 <blockquote>
-- 🎈 I'm currently learning AWS Cloud Essentials, and  Machine Learning Fundamentals* 
+- 🎈 I am currently learning AWS Cloud Essentials, and  Machine Learning Fundamentals* 
 
 - 🎓 Bachelors degree in Industrial Mathematics and Computer Science 
 
