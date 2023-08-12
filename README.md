@@ -5,9 +5,11 @@
 
 <h3 align="center"> Data Professional and Python Programmer</h3>
 <blockquote>
-- 🎈 I am currently learning AWS Cloud Essentials, and  Machine Learning Fundamentals* 
+- 🎈 I am currently learning AWS Cloud Essentials and  Machine Learning Fundamentals* 
 
-- 🎓 Bachelors degree in Industrial Mathematics and Computer Science 
+- 🚀 Currently pursuing post-grad in IT @ Humber Collge, Toronto
+
+- 🎓 Bachelor's degree in Industrial Mathematics and Computer Science 
 
 - 👨‍💻 My Portfolio Website [HERE](https://kamalu-chioma.github.io/)
 
