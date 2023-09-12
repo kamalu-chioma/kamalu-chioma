@@ -12,7 +12,7 @@
 
 - 👨‍💻 My Portfolio Website [HERE](https://kamalu-chioma.github.io/)
 
-- <p> I am Well-versed in numerous programming, scripting languages & libraries including Python, Java, SQL, HTML5, CSS3, MongoDB, PLSQL, NoSQL, Python, MATLAB, Streamlit, Bash scripting, Numpy, Pandas, Keras, Scikitlearn, etc.</p> 
+- <p> I am Well-versed in numerous programming, scripting languages & libraries including Python, Java, SQL, HTML5, CSS3, XML, MongoDB, PLSQL, NoSQL, Python, MATLAB, Streamlit, Bash scripting, Numpy, Pandas, Keras, Scikitlearn, etc.</p> 
 
 
 </blockquote>
