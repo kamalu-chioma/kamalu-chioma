@@ -8,13 +8,11 @@
 
 - 🚀 Currently pursuing post-grad in IT @ Humber College, Toronto
 
-- 🎈 I am currently learning AWS Cloud Essentials and  Machine Learning Fundamentals* 
-
 - 🎓 Bachelor's degree in Industrial Mathematics and Computer Science 
 
 - 👨‍💻 My Portfolio Website [HERE](https://kamalu-chioma.github.io/)
 
-- 📡 Multi-Tech Talent
+- <p> I am Well-versed in numerous programming, scripting languages & libraries including Python, Java, SQL, HTML5, CSS3, MongoDB, PLSQL, NoSQL, Python, MATLAB, Streamlit, Bash scripting, Numpy, Pandas, Keras, Scikitlearn, etc.</p> 
 
 
 </blockquote>
