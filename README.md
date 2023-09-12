@@ -3,17 +3,18 @@
 </div>
 
 
-<h3 align="center"> Data Professional and Python Programmer</h3>
+<h3 align="center"> IT Professional and Python Programmer</h3>
 <blockquote>
-- 🎈 I am currently learning AWS Cloud Essentials and  Machine Learning Fundamentals* 
 
-- 🚀 Currently pursuing post-grad in IT @ Humber Collge, Toronto
+- 🚀 Currently pursuing post-grad in IT @ Humber College, Toronto
+
+- 🎈 I am currently learning AWS Cloud Essentials and  Machine Learning Fundamentals* 
 
 - 🎓 Bachelor's degree in Industrial Mathematics and Computer Science 
 
 - 👨‍💻 My Portfolio Website [HERE](https://kamalu-chioma.github.io/)
 
-- 📡 Multi Tech Talent
+- 📡 Multi-Tech Talent
 
 
 </blockquote>
