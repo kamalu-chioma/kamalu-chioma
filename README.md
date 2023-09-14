@@ -3,7 +3,7 @@
 </div>
 
 
-<h3 align="center"> IT Professional and Python Programmer</h3>
+<h3 align="center"> IT Professional, Data Analyst and Python Programmer</h3>
 <blockquote>
 
 - 🚀 Currently pursuing post-grad in IT @ Humber College, Toronto
