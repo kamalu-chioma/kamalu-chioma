@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center"> IT Professional, Data Analyst and Python Programmer</h3>
-
+<p align="left"> <a href=https://github-profile-trophy.vercel.app/?username=kamalu-chioma <img src="https://github.com/kamalu-chioma/github-profile-trophy alt="kamalu-chioma"  /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalu-chioma" alt="kamalu-chioma"  /></a> </p>
 
 <blockquote>
