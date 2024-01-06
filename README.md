@@ -8,7 +8,7 @@
 
 <blockquote>
 
-- 🚀 Currently pursuing post-grad in IT at Humber College, Toronto
+- 🚀 Currently pursuing post-grad in IT @ Humber College, Toronto
 
 - 🎓 Bachelor's degree in Industrial Mathematics and Computer Science 
 
