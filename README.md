@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalu-chioma&show_icons=true&locale=en" alt="kamalu-chioma" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalu-chioma&show_icons=true&locale=en" alt="kamalu-chioma" /></p>-->
 
 <br/>
 
@@ -33,9 +33,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me: </h3>
+<!--<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/chioma-kamalu-chimere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chioma-kamalu-chimere" height="30" width="40" /></a>   
 <a href="https://www.behance.net/chiomakamalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="chiomakamalu" height="30" width="40" /></a>
 <a href="https://medium.com/@chioma_kamalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chioma_kamalu" height="30" width="40" /></a>
-</p>
+</p>-->
