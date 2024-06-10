@@ -12,9 +12,9 @@
 
 - 🎓 Bachelor's degree in Industrial Mathematics and Computer Science 
 
-- 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/) ---(It's like my mini dump tbh)
+- 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/) ---(It's like my mini dump)
 
-- <p> 🗣️ I am Well-versed in numerous programming, scripting languages & libraries including Python, Java, SQL, HTML5, CSS3, XML, MongoDB, PLSQL, NoSQL, Python, Streamlit, Bash scripting, Numpy, Pandas, Keras, Scikitlearn, etc.</p> 
+- <p> 🗣️ I am Well-versed in numerous programming, scripting languages, tools, and libraries including Python, Java, SQL, HTML5, CSS3, MongoDB, PLSQL, NoSQL, Python, Flask, Selenium, Streamlit, Bash scripting, Numpy, Pandas, Keras, Scikitlearn, Pytorch etc.</p> 
 
 
 </blockquote>
