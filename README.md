@@ -10,7 +10,7 @@
 
 - 🚀 Currently pursuing Post-Grad in IT @ Humber College, Toronto
 
-- 🎓 Bachelor's degree in Industrial Mathematics and Computer Science 
+- 🎓 Bachelor's degree in  Mathematics and Computer Science 
 
 - 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/) ---(It's like my mini dump)
 
