@@ -10,11 +10,13 @@
 
 - 🚀 Currently pursuing Post-Grad in IT Solutions @ Humber College, Toronto, Canada
 
-- 🎓 Bachelor's degree in  Mathematics and Computer Science 
+- 🎓 Bachelor's degree in  Mathematics and Computer Science
+  
+- 💯 Very much Into Machine Learning and AI
 
 - 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/) ---(It's like my mini dump)
 
-- <p> 🗣️ I am Well-versed in numerous programming, scripting languages, tools, and libraries including Python, Java, SQL, HTML5, CSS3, MongoDB, PLSQL, NoSQL, Python, Flask, Selenium, Streamlit, Bash scripting, Numpy, Pandas, Keras, Scikitlearn, Pytorch etc.</p> 
+- <p> 🗣️ I am Well-versed in numerous programming, scripting languages, tools, and libraries including Python, JavaScript, SQL, HTML5, CSS3, MongoDB, NoSQL, Flask, Selenium, Streamlit, Bash scripting, Numpy, Pandas, Keras, Scikitlearn, Pytorch, Langchain etc.</p> 
 
 
 </blockquote>
