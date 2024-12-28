@@ -8,9 +8,11 @@
 
 <blockquote>
 
-- 🚀 Post-Grad in IT Solutions @ Humber College, Toronto, Canada
+- 📍  Toronto, Canada
 
-- 🎓 Bachelor's degree in  Mathematics and Computer Science
+- 🚀 Post-Grad in IT Solutions 
+
+- 🎓 Bachelor's degree in Mathematics and Computer Science
   
 - 💯 Very much Into Machine Learning and AI
 
