@@ -16,7 +16,7 @@
   
 - 💯 Very much Into Machine Learning and AI
 
-- 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/) ---(It's like my mini dump)
+- 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/)  (It's like my mini dump)
 
 - <p> 🗣️ I am Well-versed in numerous programming and scripting languages, tools, and libraries including Python, JavaScript, SQL, HTML5, CSS3, MongoDB, NoSQL, Flask, Selenium, Streamlit, Tableau, Looker, Docker, Kubernetes, Bash scripting, Numpy, Pandas, Tensorflow, Scikitlearn, Pytorch, Langchain etc.</p> 
 
