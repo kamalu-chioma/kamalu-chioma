@@ -12,7 +12,7 @@
 
 - 🚀 Post-Grad in IT Solutions 
 
-- 🎓 Bachelor's degree in Mathematics and Computer Science
+- 🎓 Bachelor's degree in Industrial Mathematics and Computer Science
   
 - 💯 Very much Into Machine Learning and AI
 
