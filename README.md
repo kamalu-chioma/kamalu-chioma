@@ -18,7 +18,9 @@
 
 - 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/)  (It's like my mini dump)
 
-- <p> 🗣️ I am Well-versed in numerous programming and scripting languages, tools, and libraries including Python, JavaScript, SQL, HTML5, CSS3, MongoDB, NoSQL, Flask, Selenium, Streamlit, Tableau, Looker, Docker, Kubernetes, Bash scripting, Numpy, Pandas, Tensorflow, Scikitlearn, Pytorch, Langchain etc.</p> 
+- 🗣️ I am Well-versed in numerous programming and scripting languages, tools, and libraries including Python, JavaScript, SQL, HTML5, CSS3, MongoDB, NoSQL, Flask, Selenium, Streamlit, Tableau, Looker, Docker, Kubernetes, Bash scripting, Numpy, Pandas, Tensorflow, Scikitlearn, Pytorch, Langchain etc.
+
+- 💅 I any have also done a project or two using Databricks, Snowflake (dbt), SAP, SPSS, Alteryx, Looker, and MATLAB.
 
 
 </blockquote>
