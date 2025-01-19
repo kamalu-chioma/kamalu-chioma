@@ -8,7 +8,7 @@
 
 <blockquote>
 
-- 🌏 Toronto, Ontario, Canada
+- 🌏 Toronto, Canada
 
 - 🚀 Post-Grad in IT Solutions 
 
