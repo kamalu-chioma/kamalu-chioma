@@ -14,7 +14,7 @@
 
 - 🎓 Bachelor's degree in Industrial Mathematics and Computer Science
   
-- 💯 Very much Into Machine Learning and AI
+- 💯 Very much Into Machine Learning and GenAI
 
 - 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/)  (It's like my mini dump)
 
