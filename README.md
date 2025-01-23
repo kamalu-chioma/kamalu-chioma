@@ -20,7 +20,7 @@
 
 - 🗣️ I am Well-versed in numerous programming and scripting languages, tools, and libraries including Python, JavaScript, SQL, HTML5, CSS3, MongoDB, NoSQL, Flask, Selenium, Streamlit, Tableau, Bash scripting, Numpy, Pandas, Tensorflow, Scikitlearn, Pytorch, Langchain etc.
 
-- 💅 I may have also done a project or two using Vertex AI, Kubernetes, Databricks, Snowflake (dbt), SAP, SPSS, Alteryx, Looker, Docker and MATLAB.
+- 💅 I may have also done a project or two using Vertex AI, Kubernetes, Databricks, Snowflake (and dbt), SAP, SPSS, Alteryx, Looker, Docker and MATLAB.
 
 
 </blockquote>
