@@ -8,7 +8,7 @@
 
 <blockquote>
 
-- 🌏 Toronto, Canada
+- 🌏 Toronto, Ontario, Canada
 - 🚀 Post-Grad in IT Solutions 
 - 🎓 Bachelor's degree in Industrial Mathematics -  Computer Science
 - 💯 Very much Into Machine Learning and building GenAI systems using Python 
