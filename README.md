@@ -11,7 +11,7 @@
 - 🌏 Toronto, Canada
 - 🚀 Post-Grad in IT Solutions 
 - 🎓 Bachelor's degree in Industrial Mathematics (major) -  Computer Science (minor)
-- 💯 Very much Into Machine Learning and building GenAI systems using Python 
+- 💯 Very much Into Machine Learning and building Generative AI systems using Python 
 - 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/)  (It's like my mini dump)
 - 🗣️ I am Well-versed in numerous programming and scripting languages, tools, and libraries including Python, JavaScript, SQL, HTML5, CSS3, MongoDB, NoSQL, Flask, Fast API, Selenium, Streamlit, Tableau, Power BI and DAX, Bash scripting, Numpy, Pandas, Tensorflow, Scikitlearn, Pytorch, NLTK, Langchain, Flax, Jax, BERT Models, Hugging face Transformers etc.
 - 💅 I have also done several projects using Vertex AI, Airflow, Salesforce Analytics Studio, Kubernetes, Databricks, Snowflake (and dbt), SAP, SPSS, Alteryx, Looker, Docker, Next JS, React JS, MATLAB etc.
