@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi👋!+I'm+Chioma+Kamalu+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-<h3 align="center"> Data Scientist, Python and JavaScript Programmmer</h3>
+<h3 align="center"> Data Scientist, Python and NextJS Programmmer</h3>
 <p align="left"> <a href=https://github-profile-trophy.vercel.app/?username=kamalu-chioma <img src="https://github.com/kamalu-chioma/github-profile-trophy alt="kamalu-chioma"  /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalu-chioma" alt="kamalu-chioma"  /></a> </p>
 
