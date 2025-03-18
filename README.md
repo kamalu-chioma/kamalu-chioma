@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi👋!+I'm+Chioma+Kamalu+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-<h3 align="center"> Data Scientist and AI Developer!</h3>
+<h3 align="center"> Data Scientist and AI Developer</h3>
 <p align="left"> <a href=https://github-profile-trophy.vercel.app/?username=kamalu-chioma <img src="https://github.com/kamalu-chioma/github-profile-trophy alt="kamalu-chioma"  /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalu-chioma" alt="kamalu-chioma"  /></a> </p>
 
@@ -13,7 +13,7 @@
 - 🕰️ Currently building agentic and RAG apps
 - 🎓 Bachelor's degree in Industrial Mathematics -  Computer Science
 - 💯 Very much Into Machine Learning and Generative AI systems using Python 
-- 👨‍💻 Visit my Project Portfolio Website [Here](https://kamalu-chioma.github.io/)
+- 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/)
 - 🗣️ I am Well-versed in a couple of programming and scripting languages, tools, and libraries including Python, JavaScript, SQL, HTML5, CSS3, MongoDB, NoSQL, Flask, Fast API, Selenium, Streamlit, Tableau, Power BI and DAX, Bash scripting, Numpy, Pandas, Tensorflow, Scikitlearn, Pytorch, NLTK, Langchain, Flax, Jax, BERT Models, Hugging face Transformers etc.
 - 💅 I have also done several projects using Vertex AI, Airflow, Salesforce Analytics Studio, Kubernetes, Databricks, Snowflake (and dbt), SAP, SPSS, Alteryx, Looker, Docker, Next JS, React JS, MATLAB etc.
 - 🤝 If you're seeing this and are looking for to collaborate on an interesting website, report, application, project, tool, dashboard or publication, please Reach out to me on any of my socials. 
