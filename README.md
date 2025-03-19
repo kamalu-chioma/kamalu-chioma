@@ -10,7 +10,7 @@
 
 - 🌏 Toronto, Canada
 - 🚀 Post-Grad in IT Solutions
-- 🕰️ Currently building agentic and RAG apps
+- 🕰️ Currently building Agentic and RAG apps
 - 🎓 Bachelor's degree in Industrial Mathematics -  Computer Science
 - 💯 Very much Into Machine Learning and Generative AI systems using Python 
 - 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/)
