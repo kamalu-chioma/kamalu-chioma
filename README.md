@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalu-chioma" alt="kamalu-chioma"  /></a> </p>
 <blockquote>
 
-- 🌏 Ontario, Canada
+- 📍 Ontario, Canada
 - 🚀 Post-Grad in IT Solutions
 - 🕰️ Currently building Agentic and RAG apps
 - 🎓 Bachelor's degree in Industrial Mathematics -  Computer Science
