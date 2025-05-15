@@ -10,7 +10,8 @@
 
 - 👨‍💻 Visit my Portfolio Website [here](https://kamalu-chioma.github.io/)
 - 📍 Ontario, Canada
-- 🕰️ Currently building Agentic and RAG apps and workflows
+- 👩 I am a Full stack Data Scientist with multiple Open source projects and a wealth of Experience, but ofcourse I'm a LITTLE more focused on the current industry trends📈 
+- 🕰️ Mostly (Currently) building Agentic and RAG apps and workflows
 - 🕰️ Exploring Explainable AI and machine learning research
 - 🎓 Education: Industrial Mathematics -  Computer Science, Information Technology Solutions
 - 💯 Very much Into Machine Learning and Generative AI systems using Python 
