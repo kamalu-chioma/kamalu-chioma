@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalu-chioma" alt="kamalu-chioma"  /></a> </p>
 <blockquote>
 
-- 👨‍💻 Visit my Portfolio Website [Here](https://kamalu-chioma.github.io/)
+- 👨‍💻 Visit my Portfolio Website [here](https://kamalu-chioma.github.io/)
 - 📍 Ontario, Canada
 - 🕰️ Currently building Agentic and RAG apps and workflows
 - 🎓 Education: Industrial Mathematics -  Computer Science, Information Technology Solutions
