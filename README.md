@@ -11,13 +11,14 @@
 - 👨‍💻 Visit my Portfolio Website [here](https://kamalu-chioma.github.io/)
 - 📍 Ontario, Canada
 - 👩 I am a Full stack Data Scientist with multiple Open source projects and a wealth of Experience, but ofcourse I'm a LITTLE more focused on the current industry trends📈 
-- 🕰️ Mostly (Currently) building Agentic and RAG apps and workflows
-- 🕰️ Exploring Explainable AI and machine learning research
+- 🕰️ Currently Exploring Explainable AI and Machine learning research
+- 🕰️ Currently Learning to build Agentic and RAG apps and workflows, and the necessary ethics and Explanabilty involved
 - 🎓 Education: Industrial Mathematics -  Computer Science, Information Technology Solutions
-- 💯 Very much Into Machine Learning and Generative AI systems using Python 
+- 💯 Very much Into Machine Learning and Generative AI systems using Python
 - 🗣️ I am Well-versed in a couple of programming and scripting languages, tools, and libraries including Python, JavaScript, SQL, HTML5, CSS3, MongoDB, NoSQL, Flask, Fast API, Selenium, Streamlit, Tableau, Power BI and DAX, Bash scripting, Numpy, Pandas, Tensorflow, Scikitlearn, Pytorch, NLTK, Langchain, Flax, Jax, BERT Models, Hugging face Transformers etc.
 - 💅 I have also done several projects using Vertex AI, BigQuery, Gradio, Airflow, Salesforce Analytics Studio, Kubernetes, Databricks, Snowflake, DBT, SAP, SPSS, Alteryx, Looker, Docker, Next JS, React JS, MATLAB etc.
-- 🤝 If you're seeing this and are looking for to collaborate on an interesting website, report, application, project, tool, dashboard or publication, please Reach out to me on any of my socials. 
+- 🤝 If you're seeing this and are looking for to collaborate on an interesting app, tool, dashboard or publication, please Reach out to me on any of my socials. 
+ 
 
 </blockquote>
 <!-- <h3 align="center">Programming Languages and Tools:</h3>
