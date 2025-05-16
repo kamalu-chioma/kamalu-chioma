@@ -10,9 +10,9 @@
 
 - 👨‍💻 Visit my Portfolio Website [here](https://kamalu-chioma.github.io/)
 - 📍 Ontario, Canada
-- 👩 I am a Full stack Data Scientist with multiple Open source projects and a wealth of Experience, but ofcourse I'm a LITTLE more focused on the current industry trends📈 
-- 🕰️ Currently Exploring Explainable AI Research
-- 🕰️ Currently Learning to build Agentic and RAG apps and workflows, and the necessary ethics and Explanabilty involved
+- 👩 Full-Stack Data Scientist with hands-on experience in open-source projects and a sharp focus on cutting-edge industry trends📈 
+- 🕰️ Currently exploring Explainable AI in applied research 
+- 🕰️ Exploring Agentic Systems, RAG workflows, and the use cases of ethics and interpretability in AI
 - 🎓 Education: Industrial Mathematics -  Computer Science, Information Technology Solutions
 - 🤝 If you're seeing this and are looking for to collaborate on an interesting app, tool, dashboard or publication, please Reach out to me on any of my socials.
 - ### 🛠️ Tools & Technologies
