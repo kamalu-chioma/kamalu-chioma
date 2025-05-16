@@ -8,13 +8,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalu-chioma" alt="kamalu-chioma"  /></a> </p>
 <blockquote>
 
-- 👨‍💻 Visit my Portfolio Website [here](https://kamalu-chioma.github.io/)
+- 👨‍💻 Visit my [Portfolio Website](https://kamalu-chioma.github.io/)
 - 📍 Ontario, Canada
 - 👩 Full-Stack Data Scientist with hands-on experience in open-source projects and a sharp focus on cutting-edge industry trends📈 
 - 🕰️ Currently exploring Explainable AI in applied research 
 - 🕰️ Exploring Agentic Systems, RAG workflows, and the use cases of ethics and interpretability in AI
-- 🎓 Education: Industrial Mathematics -  Computer Science, Information Technology Solutions
-- 🤝 If you're seeing this and are looking for to collaborate on an interesting app, tool, dashboard or publication, please Reach out to me on any of my socials.
+- 🎓 Education:  Industrial Mathematics – Computer Science | Postgraduate in Information Technology Solutions
+- 🤝 Open to collaborations on innovative apps, tools, dashboards, or research publications — feel free to connect with me on any of my socials
 - ### 🛠️ Tools & Technologies
 
 <!-- Languages & Scripting -->
