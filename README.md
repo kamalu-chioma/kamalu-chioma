@@ -12,7 +12,7 @@
 - 📍 Ontario, Canada
 - 👩 Full-Stack Data Scientist with hands-on experience in open-source projects and a sharp focus on cutting-edge industry trends📈 
 - 🕰️ Currently exploring Explainable AI in applied research 
-- 🕰️ Exploring Agentic Systems, RAG workflows, and the use cases of ethics and interpretability in AI
+<!--- 🕰️ Exploring Agentic Systems, RAG workflows, and the use cases of ethics and interpretability in AI-->
 - 🎓 Education: Industrial Mathematics – Computer Science | Postgraduate in Information Technology Solutions
 - 🤝 Open to collaborations on innovative apps, tools, dashboards, or research publications — feel free to connect with me on any of my socials
 - ### 🛠️ Tools & Technologies
