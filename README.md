@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalu-chioma" alt="kamalu-chioma"  /></a> </p>
 <blockquote>
 
-- 👨‍💻 Visit my [Portfolio](https://kamalu-chioma.github.io/)
+- 👨‍💻 [Project Portfolio](https://kamalu-chioma.github.io/)
 - 📍 Ontario, Canada
 - 👩 Full-Stack Data Scientist with hands-on experience in open-source projects and a sharp focus on cutting-edge industry trends📈 
 - 🕰️ Currently exploring Explainable and Responsible AI research 
