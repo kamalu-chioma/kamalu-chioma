@@ -41,7 +41,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-006400?style=for-the-badge)
-![Langflow](https://img.shields.io/badge/LangFlow-005100?style=for-the-badge)
+![Langflow](https://img.shields.io/badge/LangFlow-001100?style=for-the-badge)
 
 <!-- BI & Analytics -->
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
