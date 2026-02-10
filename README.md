@@ -9,7 +9,7 @@
 <blockquote>
 
 - 👨‍💻 [Project Portfolio](https://kamalu-chioma.github.io/)
-- 📍 Ontario, Canada
+- 📍 Ontario, Canada (open to global colaborations)
 - 👩 Full-Stack Data Scientist and AI Engineer with hands-on experience in open-source projects and a sharp focus on cutting-edge industry trends📈 
 - 🕰️ Currently exploring Explainable and Responsible AI research 
 <!--- 🕰️ Exploring Agentic Systems, RAG workflows, and the use cases of ethics and interpretability in AI-->
