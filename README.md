@@ -27,8 +27,8 @@ Focused on generative AI, explainability, practical AI systems, and customer ana
 
 ## Selected Work
 
-- [OpenRFM Model](https://openrfmmodel.online)
 - [DealFlow AI](https://www.dealflowai.site/)
+- [OpenRFM Model](https://openrfmmodel.online)
 - [Tableau Visualizations](https://public.tableau.com/app/profile/chioma.kamalu/vizzes)
 
 ---
