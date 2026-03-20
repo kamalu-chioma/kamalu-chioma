@@ -6,7 +6,8 @@
 <p align="center">
   <a href="https://kamalu-chioma.github.io/">Portfolio</a> •
   <a href="https://github.com/kamalu-chioma">GitHub</a> •
-  <a href="https://www.linkedin.com/in/chimere-chioma-kamalu/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/chimere-chioma-kamalu/">LinkedIn</a> •
+  <a href="https://scholar.google.ca/citations?user=-Z3VXhAAAAAJ&hl=en">Google Scholar</a>
 </p>
 
 <p align="center">
@@ -24,10 +25,11 @@ Focused on generative AI, explainability, and practical systems that deliver rea
 
 ---
 
-## Work
+## Selected Work
 
-- [Portfolio](https://kamalu-chioma.github.io/)
-- [Repositories](https://github.com/kamalu-chioma?tab=repositories)
+- [OpenRFM Model](https://openrfmmodel.online)
+- [DealFlow AI](https://www.dealflowai.site/)
+- [Tableau Visualizations](https://public.tableau.com/app/profile/chioma.kamalu/vizzes)
 
 ---
 
