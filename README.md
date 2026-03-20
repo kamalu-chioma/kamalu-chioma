@@ -23,7 +23,7 @@
 
 ML/AI Engineer and Data Scientist based in Canada, building machine learning systems, data products, and AI-powered applications.
 
-Focused on generative AI, explainability, practical AI systems, and customer analytics that drive real-world impact.
+Focused on generative AI, explainability, practical AI systems, and Predictive Modeling that drive real-world impact.
 
 ---
 
