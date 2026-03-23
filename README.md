@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://kamalu-chioma.github.io/">Portfolio</a> •
-  <a href="https://github.com/kamalu-chioma">GitHub</a> •
   <a href="https://www.linkedin.com/in/chimere-chioma-kamalu/">LinkedIn</a> •
   <a href="https://scholar.google.ca/citations?user=-Z3VXhAAAAAJ&hl=en">Google Scholar</a> •
   <a href="https://public.tableau.com/app/profile/chioma.kamalu/vizzes"> Tableau </a> •
