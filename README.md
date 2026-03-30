@@ -29,7 +29,7 @@ Focused on generative AI, explainability, practical AI systems, and Predictive M
 ## Selected Work
 
 - [DealFlow AI](https://www.dealflowai.site/)
-- [OpenRFM Modeler](https://openrfmmodel.online)
+- [OpenRFM Modeler]([https://openrfmmodel.online](https://github.com/kamalu-chioma/OpenRFM))
 - [AuroraRank](https://aurorarank.site)
 ---
 
