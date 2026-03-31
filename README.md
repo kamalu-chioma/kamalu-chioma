@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/chimere-chioma-kamalu/">LinkedIn</a> •
   <a href="https://scholar.google.ca/citations?user=-Z3VXhAAAAAJ&hl=en">Google Scholar</a> •
   <a href="https://public.tableau.com/app/profile/chioma.kamalu/vizzes"> Tableau </a> •
-  <a href="https://medium.com/@chioma_kamalu">Medium</a>
-  <a href="https://huggingface.co/kamalu-chioma"> Hugging Face</a>a>
+  <a href="https://medium.com/@chioma_kamalu">Medium</a> •
+  <a href="https://huggingface.co/kamalu-chioma"> Hugging Face</a>
 </p>
 
 <p align="center">
