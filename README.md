@@ -9,6 +9,7 @@
   <a href="https://scholar.google.ca/citations?user=-Z3VXhAAAAAJ&hl=en">Google Scholar</a> •
   <a href="https://public.tableau.com/app/profile/chioma.kamalu/vizzes"> Tableau </a> •
   <a href="https://medium.com/@chioma_kamalu">Medium</a>
+  <a href="https://huggingface.co/kamalu-chioma"> Hugging Face</a>a>
 </p>
 
 <p align="center">
@@ -29,8 +30,10 @@ Focused on generative AI, explainability, practical AI systems, and Predictive M
 ## Selected Work
 
 - [DealFlow AI](https://www.dealflowai.site/)
-- [OpenRFM Modeler]([https://openrfmmodel.online](https://github.com/kamalu-chioma/OpenRFM))
+- [OpenRFM Modeler](https://github.com/kamalu-chioma/OpenRFM)
+- [RAG reliability Checker](https://huggingface.co/spaces/kamalu-chioma/RAG_Reliability)
 - [AuroraRank](https://aurorarank.site)
+- [LLM Hallucination Lab](https://huggingface.co/spaces/kamalu-chioma/LLM-Hallucination-Lab)
 ---
 
 ## Contact
