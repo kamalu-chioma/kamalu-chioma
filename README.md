@@ -1,6 +1,6 @@
 <h1 align="center">Chioma Kamalu</h1>
 <p align="center">
-  ML/AI Engineer • Data Scientist • Responsible AI
+Responsible AI • ML/AI Engineer • Data Scientist  
 </p>
 
 <p align="center">
