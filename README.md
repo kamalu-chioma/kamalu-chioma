@@ -32,9 +32,11 @@ My work spans applied AI research and development, with a focus on generative AI
 
 Projects I’ve built, contributed to, or currently maintain:
 
-- [DealFlow AI](https://www.dealflowai.site/)
+
 - [The AI Ethics Room](https://www.aiethicsroom.org/)
 - [Regnitive](https://regnitive.com/)
+- [DealFlow AI](https://www.dealflowai.site/)
+- [Knowledge Maxxing](https://knowledgemaxx.site)
 - [OpenRFM Modeler](https://github.com/kamalu-chioma/OpenRFM)
 - [RAG Reliability Checker](https://huggingface.co/spaces/kamalu-chioma/RAG_Reliability)
 - [AuroraRank](https://aurorarank.site)
