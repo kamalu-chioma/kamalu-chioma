@@ -36,7 +36,7 @@ Projects I’ve built, contributed to, or currently maintain:
 - [The AI Ethics Room](https://www.aiethicsroom.org/)
 - [Regnitive](https://regnitive.com/)
 - [OpenRFM Modeler](https://github.com/kamalu-chioma/OpenRFM)
-- [RAG reliability Checker](https://huggingface.co/spaces/kamalu-chioma/RAG_Reliability)
+- [RAG Reliability Checker](https://huggingface.co/spaces/kamalu-chioma/RAG_Reliability)
 - [AuroraRank](https://aurorarank.site)
 - [LLM Hallucination Lab](https://huggingface.co/spaces/kamalu-chioma/LLM-Hallucination-Lab)
 ---
