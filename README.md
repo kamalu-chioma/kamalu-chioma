@@ -1,6 +1,6 @@
 <h1 align="center">Chioma Kamalu</h1>
 <p align="center">
-Responsible AI • ML/AI Engineer • Data Scientist  
+Responsible AI Researcher • ML/AI Engineer • Data Scientist  
 </p>
 
 <p align="center">
@@ -21,15 +21,20 @@ Responsible AI • ML/AI Engineer • Data Scientist
 
 ## About
 
-ML/AI Engineer and Data Scientist based in Canada, building machine learning systems, data products, and AI-powered applications.
+ML/AI Engineer, Data Scientist, and AI Researcher based in Canada, building machine learning systems, data products, and AI-powered applications.
 
-Focused on generative AI, explainability, practical AI systems, and Predictive Modeling that drive real-world impact.
+My work spans applied AI research and development, with a focus on generative AI, explainability, responsible AI, model evaluation, and predictive modeling that drive real-world impact.
+
 
 ---
 
 ## Selected Work
 
+Projects I’ve built, contributed to, or currently maintain:
+
 - [DealFlow AI](https://www.dealflowai.site/)
+- [The AI Ethics Room](https://www.aiethicsroom.org/)
+- [Regnitive](https://regnitive.com/)
 - [OpenRFM Modeler](https://github.com/kamalu-chioma/OpenRFM)
 - [RAG reliability Checker](https://huggingface.co/spaces/kamalu-chioma/RAG_Reliability)
 - [AuroraRank](https://aurorarank.site)
